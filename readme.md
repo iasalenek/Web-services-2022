@@ -1,4 +1,4 @@
-### Домашнее задание 1
+### Домашнее задание 1 (в отдельной ветке)
 
 - создано базовое приложение на основе [документации FastAPI](https://fastapi.tiangolo.com/tutorial/first-steps/) с использованием различных entry point (с path параметром, query параметром и request body
 )
